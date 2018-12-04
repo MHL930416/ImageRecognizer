@@ -9,8 +9,8 @@
 Pod::Spec.new do |s|
 
   s.name         = "ImageRecognizer"
-  s.version      = "1.0.0"
-  s.summary      = "A short description of ImageRecognizer."
+  s.version      = "1.1.0"
+  s.summary      = "ImageRecognizer."
   s.description  = <<-DESC 
                     一个测试打包的cocoapods项目
                    DESC
