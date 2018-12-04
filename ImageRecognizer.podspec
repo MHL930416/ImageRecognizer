@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/MHL930416/ImageRecognizer.git", :tag => "#{s.version}" }
 
-  s.source_files  = "ImageRecognizer/*.{h,m}"
+  s.source_files  = "MBProgressHUD/*.{h,m}"
 
   s.frameworks  = "UIKit","AVFoundation","Foundation"
   
